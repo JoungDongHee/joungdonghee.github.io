@@ -1,6 +1,6 @@
 ---
 title: P.A.R.A Method
-date: 2024-09-28 22:09
+date: 2023-11-21 22:50 +0200
 author: JoungDongHee
 categories:
   - Resource
