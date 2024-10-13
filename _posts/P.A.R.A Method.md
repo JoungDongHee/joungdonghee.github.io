@@ -2,14 +2,8 @@
 title: P.A.R.A Method
 date: 2023-11-21 22:50 +0200
 author: JoungDongHee
-categories:
-  - Resource
-  - Memo
-tags:
-  - Resource
-  - Things
-  - PARA
-  - Memo
+categories: [Resource,Memo] 
+tags: [Resource,Things,PARA,Memo]
 share: "true"
 ---
 
